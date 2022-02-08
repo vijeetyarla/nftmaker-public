@@ -24,7 +24,7 @@ Folder Structure: store all layers in separate folders within the same
                       - layer1
                           - layer1_1.png
                           - ...
-Examples: NFTMaker.py -b ./base -n 10000
+Examples: NFTMaker.py -b base -n 10000
 
 # Author
 Vijeet Yarlagadda, vijeetyarla@gmail.com
